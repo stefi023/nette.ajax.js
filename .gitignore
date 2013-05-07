@@ -1,1 +1,6 @@
 *.sublime*
+nbproject
+.DS_Store
+!.gitignore
+!.htaccess
+!web.config
